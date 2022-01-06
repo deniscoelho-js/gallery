@@ -1,11 +1,10 @@
 # Gallery 
 
+<img width="1240" alt="gallery" src="https://user-images.githubusercontent.com/83840866/148427260-bb4c7e19-4bc3-4d81-926a-f579209f68c4.png">
 
 ## O desafio
 
 Criar um site para uploanding de imagens usando React e Firebase
-
-
 
 ## Tecnologias
 
