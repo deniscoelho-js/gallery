@@ -1,8 +1,5 @@
 # Gallery 
 
-<h1 align="center">
-    <img alt="Layout Website" src="public/images/gallery.png" width="100%" />
-</h1>
 
 ## O desafio
 
